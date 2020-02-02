@@ -1,0 +1,42 @@
+[
+    {
+        "brand": "Samsung",
+        "tipe": "Samsung J6 Plus",
+        "harga": "Rp. 1.000.000",
+        "hargaAsli": "Rp. 2.000.000",
+        "internal": "64 GB",
+        "ram": "4 GB",
+        "batre": "3300 mAh",
+        "foto": "https://images.app.goo.gl/SCK1fErD9FgbDJQd6"
+    },
+    {
+        "brand": "Samsung",
+        "tipe": "Samsung M10",
+        "harga": "Rp. 1.000.000",
+        "hargaAsli": "Rp. 1.600.000",
+        "internal": "64 GB / 32 GB",
+        "ram": "2 GB/ 3 GB",
+        "batre": "3400 mAh",
+        "foto": "https://images.app.goo.gl/1UvvS52mL3AD1VqF7"
+    },
+    {
+        "brand": "Samsung",
+        "tipe": "Samsung M20",
+        "harga": "Rp. 1.000.000",
+        "hargaAsli": "Rp. 2.000.000",
+        "internal": "32 GB / 64 GB",
+        "ram": "3 GB / 4 GB",
+        "batre": "5000 mAh",
+        "foto": "https://images.app.goo.gl/zpsHTkNoHVGa8TuH6"
+    },
+    {
+        "brand": "Samsung",
+        "tipe": "Samsung A10",
+        "harga": "Rp. 1.000.000",
+        "hargaAsli": "Rp. 1.700.000",
+        "internal": "32 GB / 64 GB",
+        "ram": "2 GB / 4 GB",
+        "batre": "3400 mAh",
+        "foto": "https://images.app.goo.gl/zpsHTkNoHVGa8TuH6"
+    },
+]
